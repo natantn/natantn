@@ -1,16 +1,21 @@
 ## Hi there 👋
 
 ---
+### Sobre mim
 
 Sou um desenvolvedor backend tentando fazer o feito antes do perfeito
-
----
 
 - 🌱Atualmente estou aprendendo **Golang**
 - 💡 Tenho interesse em **Engenharia de Software**, **Interação Humano-Computador** e **Teste de Software**
 - 👯Procuro colaborar com projeto que envolvam **Interação Humano-Computador** e **Impacto social como educação**
 
 ---
+
+### Linguagens e Stacks
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg" />
 
 <div>
 <a href="https://github.com/natantn">
